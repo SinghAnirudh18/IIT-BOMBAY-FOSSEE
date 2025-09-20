@@ -4,13 +4,13 @@ A prompt designed to help AI assistants guide students through debugging Python 
 
 ## Files
 
-- `prompt.txt` - The main prompt for the AI assistant
+- `prompt.md` - The main prompt for the AI assistant
 - `instructions.md` - Detailed setup and usage instructions
 - `README.md` - This overview document
 
 ## Quick Start
 
-Copy the content from `prompt.txt` and use it as a system prompt for any AI assistant like ChatGPT, Claude, or similar language models.
+Copy the content from `prompt.md` and use it as a system prompt for any AI assistant like ChatGPT, Claude, or similar language models.
 
 ## Purpose
 
